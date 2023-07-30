@@ -1,0 +1,1 @@
+print('Imprimiendo desde la consola')
